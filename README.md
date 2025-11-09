@@ -28,3 +28,6 @@ void quicksort(void);
 
 //void reverseList(void)  TODO: Issue
 //void deleteList(void);  TODO: Issue
+
+OUTPUT log
+<img width="983" height="706" alt="image" src="https://github.com/user-attachments/assets/aa3f1e6f-3ece-4292-983a-7c2c27218941" />
