@@ -1,5 +1,7 @@
 # linked_list
+C++ OOP implementation
 Linked list class (with operations)
+This code could be executed in this website: https://www.onlinegdb.com/online_c++_compiler#
 
 LinkedList class
 Operations:
